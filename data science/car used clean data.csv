@@ -1,0 +1,21 @@
+﻿CarID,Make,Model,Year,Mileage_km,FuelType,Transmission,Price_USD
+1,Toyota,Corolla,2018,65000,Petrol,Automatic,14500
+2,Honda,Civic,2019,52000,Petrol,Automatic,16800
+3,Ford,Focus,2017,78000,Diesel,Manual,11200
+4,BMW,320i,2016,92000,Petrol,Automatic,18500
+5,Audi,A4,2018,68000,Diesel,Automatic,21200
+6,Mercedes-Benz,C200,2017,85000,Petrol,Automatic,19800
+7,Volkswagen,Golf,2019,45000,Petrol,Manual,15900
+8,Hyundai,Elantra,2020,38000,Petrol,Automatic,17200
+9,Kia,Ceed,2018,71000,Diesel,Manual,12800
+10,Nissan,Sentra,2017,83000,Petrol,CVT,10900
+11,Mazda,Mazda3,2019,49000,Petrol,Automatic,16400
+12,Subaru,Impreza,2018,62000,Petrol,Manual,15100
+13,Chevrolet,Cruze,2016,98000,Diesel,Manual,9500
+14,Peugeot,308,2020,34000,Diesel,Automatic,18600
+15,Renault,Megane,2019,47000,Diesel,Manual,14300
+16,Skoda,Octavia,2018,69000,Diesel,Automatic,16700
+17,Volvo,S60,2017,88000,Petrol,Automatic,17600
+18,Lexus,IS300,2020,29000,Hybrid,Automatic,28900
+19,Tesla,Model 3,2021,22000,Electric,Automatic,34900
+20,Jaguar,XE,2018,74000,Diesel,Automatic,20100
